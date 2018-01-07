@@ -21,6 +21,9 @@ fucntion sayHiToGrandma(string){
     return "I love you, too."
   }
   else if(string == shout(string)){
-    return ""
+    return "YES INDEED!"
+  }
+  else if(string == whisper(string)){
+    return "I can't hear you!"
   }
 }
