@@ -18,6 +18,6 @@ fucntion sayHiToGrandma(string){
   var lowercase = string
   var uppercase = string
   if(string =="I love you, Grandma."){
-    return "I love you too."
+    return "I love you, too."
   }
 }
